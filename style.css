@@ -1,3 +1,5 @@
+
+/* Header */
 .header {
     background-color: #1f2937;
 }
@@ -25,5 +27,49 @@ a {
 
 .hleft .text2 {
     font-size: 18px;
+    color:#e5e7eb
+}
+/* Information */
+.title {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
+}
+
+.subtext {
+    font-size: 18px;
+    color: #1f2937;
+}
+/* testimonial */
+.testimonial {
+    background-color: #e5e7eb;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 300;
+}
+/* singup */
+.banner {
+    background-color: #3882f6;
+}
+
+.bleft .text {
+    color: #f9faf8;
+    font-weight: 800;
+    font-size: 18px;
+}
+
+.bleft .text2 {
     color: #e5e7eb;
+
+}
+/* footer */
+.footer{
+    background-color: #1f2937;
+    color: #e5e7eb;
+    font-size: 18px;
+}
+/* buttons */
+button{
+    background-color: #3882f6;
+    color: #f9faf8;
 }
