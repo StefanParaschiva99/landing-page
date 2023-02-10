@@ -1,0 +1,29 @@
+.header {
+    background-color: #1f2937;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.hleft .text {
+    font-size: 48px;
+    font-weight: 800;
+    color: #f9faf8;
+}
+
+.hleft .text2 {
+    font-size: 18px;
+    color: #e5e7eb;
+}
