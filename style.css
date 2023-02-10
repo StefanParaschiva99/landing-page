@@ -1,4 +1,6 @@
-
+body {
+    font-family: 'Roboto', sans-serif;
+}
 /* Header */
 .header {
     background-color: #1f2937;
@@ -73,3 +75,6 @@ button{
     background-color: #3882f6;
     color: #f9faf8;
 }
+
+/* Dovrei decidere prima su cosa fare il sito, quindi dovrei modificare l'html con le immagini e i testi giusti
+dopodichè dovrei iniziare a creare il layout della pagina con flexbox. Ah no, mi mancano i pulsanti da arrotondare */
