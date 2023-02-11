@@ -4,9 +4,27 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    display: flex;
+    flex-direction: column;
+}
 /* Header */
 .header {
     background-color: #1f2937;
+    display: flex;
+    flex-direction: column;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.links {
+    display: flex;
+    gap: 16px;
+    margin-right: 16px;
 }
 
 ul {
@@ -30,9 +48,10 @@ a {
     color:#e5e7eb
 }
 
-.logo img {
-    margin: -5vw;
+.logo img { 
     width: 200px;
+    margin-top: -3vw;
+    margin-left: -3vw;
 }
 /* Information */
 .title {
