@@ -43,8 +43,7 @@ body {
 }
 
 .hleft {
-width: 40%;
-
+width: 600px;
 }
 
 ul {
@@ -65,7 +64,7 @@ a {
 
 .hleft .text2 {
     font-size: 18px;
-    color:#e5e7eb
+    color:#e5e7eb;
 }
 
 .logo img { 
@@ -134,6 +133,7 @@ button:active {
 .hleft button {
     border: none;
     padding: 5px 15px;
+    margin-top: 10px;
 }
 
 .bright button {
