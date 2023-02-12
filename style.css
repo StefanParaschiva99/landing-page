@@ -127,10 +127,27 @@ a {
     font-weight: 800;
     text-align: end;
 }
-/* Trovare un modo per spostare il nome a destra */
-/* singup */
+/* signup */
+.signup {
+height: 210px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
 .banner {
     background-color: #3882f6;
+    height: 100px;
+    width: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 7px;
+}
+
+.bleft {
+    width: 500px;
+    margin-left: 50px;
 }
 
 .bleft .text {
@@ -142,6 +159,10 @@ a {
 .bleft .text2 {
     color: #e5e7eb;
 
+}
+
+.bright {
+    margin-right: 50px;
 }
 /* footer */
 .footer{
