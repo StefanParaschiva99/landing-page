@@ -163,6 +163,7 @@ align-items: center;
 
 .bright {
     margin-right: 50px;
+    flex-shrink: 0;
 }
 /* footer */
 .footer{
