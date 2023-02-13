@@ -8,7 +8,7 @@ You can see a live preview [HERE](https://stefanparaschiva99.github.io/landing-p
 
 ![Preview to my Landing Page](https://user-images.githubusercontent.com/117860564/218495600-606dbac4-42fe-46e0-84fe-7bdb42e36936.png)
 ![Preview to my landing Page](https://user-images.githubusercontent.com/117860564/218495926-84f67c7e-9ed7-48ca-b77d-395ef09f6982.png)
-![Preview to my landing Page](https://postimg.cc/Lg11P0wB)
+![Preview to my landing Page](https://user-images.githubusercontent.com/117860564/218496068-acc114a0-9fea-4a24-90e3-30ea93f46e3e.png)
 
 ## 🧑‍💻 Technologies Used
 - HTML
