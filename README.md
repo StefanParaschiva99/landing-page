@@ -6,8 +6,8 @@ A landing page designed with HTML and CSS, built on the idea of a project of "Th
 ## 🔎 Preview
 You can see a live preview [HERE](https://stefanparaschiva99.github.io/landing-page/)
 
-![Preview to my Landing Page](https://postimg.cc/JDdNZXnm)
-![Preview to my landing Page](https://postimg.cc/CBt8zVPx)
+![Preview to my Landing Page](https://user-images.githubusercontent.com/117860564/218495600-606dbac4-42fe-46e0-84fe-7bdb42e36936.png)
+![Preview to my landing Page](https://user-images.githubusercontent.com/117860564/218495926-84f67c7e-9ed7-48ca-b77d-395ef09f6982.png)
 ![Preview to my landing Page](https://postimg.cc/Lg11P0wB)
 
 ## 🧑‍💻 Technologies Used
